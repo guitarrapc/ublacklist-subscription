@@ -1,6 +1,6 @@
 # ublacklist-subscription
 
-[iorate/uBlacklist: Blocks specific sites from appearing in Google search results](https://github.com/iorate/uBlacklist) subscription to block self usage.
+[iorate/uBlacklist](https://github.com/iorate/uBlacklist) subscription to block self usage.
 
 ## Download uBlacklist
 
