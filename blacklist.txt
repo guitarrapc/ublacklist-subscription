@@ -1,2 +1,3 @@
 *://*.gitmemory.com/*
 *://*.githubmemory.com/*
+*://bleepcoder.com/*

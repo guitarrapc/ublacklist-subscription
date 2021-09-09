@@ -2,6 +2,10 @@
 
 [iorate/uBlacklist](https://github.com/iorate/uBlacklist) subscription to block self usage.
 
+## Target kind of block list
+
+* GitHub translate site
+
 ## Download uBlacklist
 
 [Chrome/Edge Extension](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe) | [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/ublacklist/)
