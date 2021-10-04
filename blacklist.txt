@@ -1,3 +1,6 @@
 *://*.gitmemory.com/*
 *://*.githubmemory.com/*
 *://bleepcoder.com/*
+*://itcentralstation.com/*
+*://sourceforge.net/*
+*://trustradius.com/*
