@@ -1,5 +1,14 @@
 *://*.gitmemory.com/*
 *://*.githubmemory.com/*
+*://*.stackfinder.net/*
+*://*.stacknoob.com/*
+*://*.stackoom.com/*
+*://*.stackoverfill.com/*
+*://*.stackovergo.com/*
+*://*.stackovernet.com/*
+*://*.stackovernet.xyz/*
+*://*.stackoverrun.com/*
+*://*.stackscn.com/*
 *://bleepcoder.com/*
 *://itcentralstation.com/*
 *://sourceforge.net/*
