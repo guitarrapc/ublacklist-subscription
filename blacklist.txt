@@ -1,5 +1,8 @@
+! github clone
 *://*.gitmemory.com/*
 *://*.githubmemory.com/*
+
+! stackoverflow clone
 *://*.stackfinder.net/*
 *://*.stacknoob.com/*
 *://*.stackoom.com/*
@@ -9,8 +12,23 @@
 *://*.stackovernet.xyz/*
 *://*.stackoverrun.com/*
 *://*.stackscn.com/*
+
+! school-site is noise
+*://*.coachtech.site/*
+*://*.code-adviser.com/*
+*://*.codecamp.jp/*
+*://*.codeflow.site/*
+*://*.codetd.com/*
+*://*.kotaeta.com/*
+*://*.mytory.net/*
+*://*.sejuku.net/*
+*://*.techacademy.jp/*
 *://bleepcoder.com/*
-*://cloud-ace.jp/*
 *://itcentralstation.com/*
 *://sourceforge.net/*
+*://tech-camp.in/*
 *://trustradius.com/*
+*://webukatu.com/*
+
+! noise sites
+*://cloud-ace.jp/*
