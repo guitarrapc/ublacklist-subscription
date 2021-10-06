@@ -28,7 +28,10 @@
 *://sourceforge.net/*
 *://tech-camp.in/*
 *://trustradius.com/*
+*://udemy.benesse.co.jp/*
 *://webukatu.com/*
 
 ! noise sites
 *://cloud-ace.jp/*
+*://www.sbbit.jp/
+
