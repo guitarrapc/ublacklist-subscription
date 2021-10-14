@@ -3,6 +3,7 @@
 *://*.githubmemory.com/*
 
 ! stackoverflow clone
+*://*.fixes.pub/*
 *://*.stackfinder.net/*
 *://*.stacknoob.com/*
 *://*.stackoom.com/*
