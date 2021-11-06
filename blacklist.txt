@@ -4,6 +4,7 @@
 
 ! stackoverflow clone
 *://*.fixes.pub/*
+*://*.narkive.jp/*
 *://*.stackfinder.net/*
 *://*.stacknoob.com/*
 *://*.stackoom.com/*
